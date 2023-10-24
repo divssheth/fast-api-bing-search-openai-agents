@@ -1,0 +1,7 @@
+fastapi
+langchain
+openai
+python-dotenv
+uvicorn
+python-multipart
+azure-cosmos
